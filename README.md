@@ -1,4 +1,4 @@
-# Real Estate Lead Assistant
+# PERSONAL-FINANCE-ASSISTANCE
 
 ## Project Overview
 A backend application built using FastAPI and SQLite to manage real estate customer leads.
